@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Udacity DIce Roller</string>
+    <string name="roll">Roll</string>
 </resources>
